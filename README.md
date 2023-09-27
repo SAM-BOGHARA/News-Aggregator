@@ -26,6 +26,8 @@ Our news aggregator works in 3 steps:<br>
 
         ----------------------------------------------------------------------------------------
 ### Screenshots ###
+## Select Dropdown
+![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/Options_select.PNG)
 ## Latest
 ![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/latest_light_mode.PNG)
 ![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/latest_night_mode.PNG)
@@ -52,6 +54,7 @@ Our news aggregator works in 3 steps:<br>
 ![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/telegram_share.PNG)
 ## Copy to clipboard
 ![](https://github.com/sam-boghara/News-Aggregator/blob/master/screenshots/copy_to_clipboard.PNG)
+
 ---------------------------------------------------------------------------------------
 
 ## How To Use
